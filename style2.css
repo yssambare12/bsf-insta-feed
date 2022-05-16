@@ -1,7 +1,7 @@
 .ig_post_container > div {
     display: grid;
     grid-template-columns: 25% 25% 25%;
-    margin-left: 21%;
+    margin-left: 20%;
     margin-right: 0%;
     gap: 10px;
     margin-top:2%;
